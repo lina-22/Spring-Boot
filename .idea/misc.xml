@@ -3,7 +3,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/sb-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/sb-backend/sb-backend/pom.xml" />
       </list>
     </option>
   </component>
